@@ -1,1 +1,1 @@
-# entra21-pratica-front-end-html-css
+# entra21-front-end-projeto-java
